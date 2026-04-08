@@ -30,3 +30,21 @@ Collisions found: 0 out of 500
 Bit range: 2368 to 2595 (expected ~2500)
 Chi-square: 243.59 (expected < 600)
 ✅ Bit distribution: GOOD
+
+from bis512 import hash_string, hash_bytes, hash_hex
+
+# Hash a string
+result = hash_string("Hello, Blockchain!")
+print(result)
+# Output: 128-character hex string
+
+# Hash bytes directly
+data = b"Block data"
+hash_result = hash_bytes(data)
+
+# Get hex from bytes
+hex_result = hash_hex(b"Any input")
+
+# Alias for convenience
+from bis512 import hash
+result = hash("Hello")
