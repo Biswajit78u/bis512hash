@@ -17,3 +17,16 @@ A secure, ASIC-resistant hash function designed for blockchain applications.
 
 ```bash
 pip install bis512
+```
+========== TEST 1: AVALANCHE EFFECT ==========
+Average: 254.5 bits / 512 (49.7%)
+✅ Avalanche: GOOD (near 50%)
+
+========== TEST 2: COLLISION RESISTANCE ==========
+Collisions found: 0 out of 500
+✅ No collisions detected
+
+========== TEST 3: BIT DISTRIBUTION ==========
+Bit range: 2368 to 2595 (expected ~2500)
+Chi-square: 243.59 (expected < 600)
+✅ Bit distribution: GOOD
