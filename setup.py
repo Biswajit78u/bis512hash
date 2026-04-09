@@ -7,7 +7,7 @@ setup(
     name="bis512",
     version="1.0.0",
     author="Biswajit Saha",
-    author_email="biswajit@example.com",
+    author_email="biswajit519saha@gmail.com",
     description="BIS512 - Custom 512-bit cryptographic hash function for blockchain",
     long_description=long_description,
     long_description_content_type="text/markdown",
