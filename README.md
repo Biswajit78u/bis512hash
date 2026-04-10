@@ -13,11 +13,7 @@ A secure, ASIC-resistant hash function designed for blockchain applications.
 - ✅ **Pure Python** - Works everywhere, no compiler needed
 - ✅ **Fast enough** for blockchain applications
 
-## Installation
 
-```bash
-pip install bis512
-```
 ## User Guide for BIS512 Hash Function
 
 ### 📦 Installation
