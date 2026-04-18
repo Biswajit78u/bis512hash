@@ -1,8 +1,8 @@
-# BIS512 - Custom 512-bit Cryptographic Hash Function
+# BIS512 - Custom 512-bit Cryptographic Hash Function for education purpose only
 
 **Author:** Biswajit Saha
 
-A secure, ASIC-resistant hash function designed for blockchain applications.
+education purpose only 
 
 ## Features
 
