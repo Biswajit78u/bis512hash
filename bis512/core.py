@@ -2,8 +2,6 @@
 BIS512 - Pure Python Implementation
 Author: Biswajit Saha
 
-Custom 512-bit cryptographic hash function
-Works on any platform without C compiler
 """
 
 import struct
