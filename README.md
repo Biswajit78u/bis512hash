@@ -18,7 +18,7 @@ education purpose only
 - ✅ **Strong avalanche effect** (49.7% bit change)
 - ✅ **No collisions detected** in 5000+ tests
 - ✅ **Pure Python** - Works everywhere, no compiler needed
-- ✅ **Fast enough** for blockchain applications
+- ✅ **Fast enough** for blockchain applications(education only)
 
 
 ## User Guide for BIS512 Hash Function
