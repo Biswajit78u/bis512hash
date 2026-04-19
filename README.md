@@ -1,4 +1,10 @@
-# BIS512 - Custom 512-bit Cryptographic Hash Function for education purpose only
+# BIS512 - Custom 512-bit Cryptographic Hash Function 
+# ⚠️ DO NOT USE THIS FOR REAL SECURITY ⚠️
+
+This is an **educational experiment** only. 
+It has **not been audited** and is **almost certainly broken**.
+
+
 
 **Author:** Biswajit Saha
 
