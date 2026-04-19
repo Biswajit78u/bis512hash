@@ -4,6 +4,7 @@
 This is an **educational experiment** only. 
 It has **not been audited** and is **almost certainly broken**.
 
+BIS512 uses a purely self‑contained implementation: no calls to OpenSSL, LibTomCrypt, or any other cryptographic library. All operations (rotations, additions, XOR, non‑linear functions, and constants) are manually implemented in the base language without reliance on pre‑existing hash primitives
 
 
 **Author:** Biswajit Saha
